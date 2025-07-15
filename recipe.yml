@@ -1,0 +1,25 @@
+version: 1
+
+AppDir:
+  path: ./AppDir
+  app_info:
+    id: fileintegritychecker
+    name: FileIntegrityChecker
+    icon: fileintegrity
+    version: "1.0.0"
+    exec: usr/bin/fileintegrity-checker
+
+  runtime:
+    env:
+      PYTHONHOME: /usr
+      PYTHONPATH: /usr/lib/python3.13
+
+  files:
+    include:
+      - ./AppDir/usr/bin/fileintegrity-checker
+      - ./AppDir/usr/share/applications/FileIntegrityChecker.desktop
+      - ./AppDir/usr/share/icons/hicolor/512x512/apps/fileintegrity.png
+
+AppImage:
+  arch: x86_64
+  update-information: "gh-releases-zsync|YourGitHubUsername|FileIntegrityChecker|latest|FileIntegrityChecker-x86_64.AppImage"

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=File Integrity Checker
+Comment=Check if files have been modified using hash verification
+Exec=fileintegrity-checker
+Icon=fileintegrity
+Terminal=false
+Type=Application
+Categories=Utility;Security;
