@@ -87,7 +87,7 @@ chmod +x FileIntegrityChecker-x86_64.AppImage
 
 ## 👨‍💻 Developer Info
 
-**Author:** Madhihally Arun Kumar Tarun  
+**Author:** Tarun  
 **GitHub:** [@MinatoNamikaze25](https://github.com/MinatoNamikaze25)  
 **LinkedIn:** [View Profile](https://www.linkedin.com/in/madhihally-arun-kumar-tarun-5bb885287)
 
