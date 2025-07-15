@@ -4,6 +4,11 @@
 ![Platform](https://img.shields.io/badge/platform-Linux-lightgrey)
 ![Built With](https://img.shields.io/badge/built%20with-Python%203-blue)
 
+<p align="center">
+  <img src="assets/fileintegrity.png" alt="App Logo" width="150"/>
+</p>
+
+
 > A lightweight and user-friendly GUI application that helps you verify whether a file has been tampered with, by comparing cryptographic hash values like SHA-256 and MD5. Built with Python and Tkinter, and packaged as an AppImage for Linux systems.
 
 ---
