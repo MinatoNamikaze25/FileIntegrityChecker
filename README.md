@@ -10,11 +10,9 @@
 
 ## 📸 Screenshot
 
-> *(Include your screenshot here once uploaded)*
+![App Screenshot](assets/screenshot.png)
 
-```
-assets/screenshot.png
-```
+
 
 ---
 
