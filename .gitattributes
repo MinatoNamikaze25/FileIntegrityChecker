@@ -1,0 +1,5 @@
+*.AppImage linguist-vendored
+*.exe linguist-vendored
+*.png linguist-vendored
+*.ico linguist-vendored
+*.squashfs linguist-vendored
